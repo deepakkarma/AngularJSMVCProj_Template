@@ -1,0 +1,67 @@
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\WebAPI.dll.config
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\WebAPI.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\WebAPI.pdb
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Cors.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Owin.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\System.Net.Http.Formatting.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\System.Web.Cors.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\System.Web.Http.Cors.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\System.Web.Http.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\System.Web.Http.Owin.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\System.Web.Http.WebHost.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Cors.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\System.Net.Http.Formatting.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\System.Web.Http.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\System.Web.Http.Cors.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\System.Web.Http.Owin.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\System.Web.Http.WebHost.xml
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\obj\Debug\WebAPI.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\obj\Debug\WebAPI.pdb
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Newtonsoft.Json.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\WebAPI\bin\Newtonsoft.Json.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\WebAPI.dll.config
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\WebAPI.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\WebAPI.pdb
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Cors.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Newtonsoft.Json.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Owin.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\System.Net.Http.Formatting.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\System.Web.Cors.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\System.Web.Http.Cors.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\System.Web.Http.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\System.Web.Http.Owin.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\System.Web.Http.WebHost.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Cors.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\Newtonsoft.Json.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\System.Net.Http.Formatting.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\System.Web.Http.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\System.Web.Http.Cors.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\System.Web.Http.Owin.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\bin\System.Web.Http.WebHost.xml
+E:\WorkingDirectory\AngularJsApplication\WebAPI\obj\Debug\WebAPI.dll
+E:\WorkingDirectory\AngularJsApplication\WebAPI\obj\Debug\WebAPI.pdb

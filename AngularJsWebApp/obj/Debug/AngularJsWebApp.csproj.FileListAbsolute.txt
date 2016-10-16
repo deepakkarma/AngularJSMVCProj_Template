@@ -1,0 +1,12 @@
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\AngularJsWebApp\bin\AngularJsWebApp.dll.config
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\AngularJsWebApp\bin\AngularJsWebApp.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\AngularJsWebApp\bin\AngularJsWebApp.pdb
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\AngularJsWebApp\obj\Debug\AngularJsWebApp.csprojResolveAssemblyReference.cache
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\AngularJsWebApp\obj\Debug\AngularJsWebApp.dll
+c:\users\jt673115\documents\visual studio 2013\Projects\AngularJsApplication\AngularJsWebApp\obj\Debug\AngularJsWebApp.pdb
+E:\WorkingDirectory\AngularJsApplication\AngularJsWebApp\bin\AngularJsWebApp.dll.config
+E:\WorkingDirectory\AngularJsApplication\AngularJsWebApp\bin\AngularJsWebApp.dll
+E:\WorkingDirectory\AngularJsApplication\AngularJsWebApp\bin\AngularJsWebApp.pdb
+E:\WorkingDirectory\AngularJsApplication\AngularJsWebApp\obj\Debug\AngularJsWebApp.csprojResolveAssemblyReference.cache
+E:\WorkingDirectory\AngularJsApplication\AngularJsWebApp\obj\Debug\AngularJsWebApp.dll
+E:\WorkingDirectory\AngularJsApplication\AngularJsWebApp\obj\Debug\AngularJsWebApp.pdb
